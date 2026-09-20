@@ -2,7 +2,7 @@
 
 CTO by profession. Builder by nature.
 
-I have been programming since the 8-bit era and spent the last two decades as CTO of some of the largest Czech online companies. I never stopped writing code.
+CTO by profession. Builder by nature. I have been programming since the 8-bit era and have spent two decades as a CTO: first of some of the largest Czech online companies, today within a global group that is the second largest in the world in its field. I never stopped writing code.
 
 What draws me to AI is not automation but cognition: AI as a cognitive extension of the human. The old arts of knowing (scholastic disputation, epistemology, the Socratic method) spent centuries learning how to sharpen thought, and I am interested in what happens when they are reforged with AI: a machine that interviews you like Socrates, puts your assumptions through a disputatio, and keeps every decision on the record.
 
